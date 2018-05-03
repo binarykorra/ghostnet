@@ -1,4 +1,4 @@
 <?php
 echo("<title>Ghost Network</title>");
-echo("<code>Welcome Devs!</code>");
+echo("<code>Welcome Devs! This Page is Coming Soon.</code>");
 ?>
